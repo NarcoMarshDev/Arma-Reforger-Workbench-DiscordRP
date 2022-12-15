@@ -1,0 +1,3 @@
+﻿core.obj : error LNK2019: unresolved external symbol _DiscordCreate referenced in function "public: static enum discord::Result __cdecl discord::Core::Create(__int64,unsigned __int64,class discord::Core * *)" (?Create@Core@discord@@SA?AW4Result@2@_J_KPAPAV12@@Z)
+discord-files\discord_game_sdk.dll.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\_projectworkspaces\Discord\EnfusionWorkbenchRP\EnfusionWorkbenchRP\Debug\EnfusionWorkbenchRP.exe : fatal error LNK1120: 1 unresolved externals
